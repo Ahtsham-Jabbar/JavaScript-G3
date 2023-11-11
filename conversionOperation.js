@@ -16,9 +16,10 @@ console.log(valueInNumber);
 
 // Example 2  
 
-let IsLoggedIn = 1
+let loggedIn = 1
+
+let BooleanLoggedIn = BOOLEAN (loggedIn)
+console.log(BooleanLoggedIn);
+console.log( typeof BooleanLoggedIn);
 
 
-let BoleanLoggedIn = Boolean (IsLoggedIn)
-console.log( typeof BoleanLoggedIn);
-console.log(BoleanLoggedIn);
