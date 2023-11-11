@@ -16,7 +16,6 @@ console.log(valueInNumber);
 
 // Example 2  
 
-
 let IsLoggedIn = 1
 
 
